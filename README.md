@@ -9,7 +9,3 @@
 ###### CSS3
 ###### JavaScript
 
-### Steps to Use:
-
-###### Run the index.html file
-##### Start Calculatings!
